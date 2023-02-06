@@ -1,2 +1,4 @@
-./GAN/CAT - Dataset/*
-./GAN/filtered/*
+/GAN/CAT - Dataset/*.jpg
+/GAN/CAT - Dataset/*.db
+/GAN/filtered/*.jpg
+/GAN/filtered/*.db
